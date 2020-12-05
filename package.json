@@ -1,0 +1,21 @@
+{
+    "name": "startlight-theme",
+    "displayName": "startlight-theme",
+    "description": "A customized version of default dark theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Starlight Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Startlight-theme.json"
+            }
+        ]
+    }
+}
