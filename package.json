@@ -2,6 +2,7 @@
     "name": "startlight-theme",
     "displayName": "startlight-theme",
     "description": "A customized version of default dark theme",
+    "publisher": "gagandeep",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.51.0"
