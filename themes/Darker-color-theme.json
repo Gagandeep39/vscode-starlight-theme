@@ -38,6 +38,7 @@
     "titleBar.activeBackground": "#212121",
     "statusBar.background": "#262626",
     "sideBarSectionHeader.border": "#262626",
+    "terminal.background" : "#212121",
   },
   "tokenColors": [
     {
